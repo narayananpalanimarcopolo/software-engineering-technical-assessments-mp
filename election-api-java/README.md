@@ -17,11 +17,6 @@ The API has 3 endpoints:
 - POST `/result` to add a new result
 - GET `/scoreboard` to get the running totals. This is unimplemented.
 
-### Task
-
-During your assessment we will ask you to work though the task in `tasks.md` with a pair. Please do not work on or complete these prior to the assessment.
-
-:warning:  If you make any changes to the code, please ensure you return it to it's initial (HEAD) state before your assessment.
 
 ## Prerequisites
 - Java 11
@@ -53,3 +48,15 @@ macOS / 'nix
 Windows:
 
 `gradlew.bat test` or `./mvnw.cmd test`
+
+## Assessment Time: 3 Days
+
+## Assessment Process
+
+In the assessment process, after making changes in your github repository, we will ask you to share your working environment and talk through the following with us in a recorded video (shared via youtube link (uploaded as 'PRIVATE and reachable only via link' may be):
+
+- Please create a github repository of your own and share your assignment as a repository, detail the code changes in readme file and share the youtube link within readme.
+
+If you have any problems with any of the above, please get in touch via your recruitment contact.
+
+Please feel free to send the assessment response as a link via recruitment contact
